@@ -46,4 +46,4 @@ Ils ne contiennent aucune donnée en dur : le texte affiché arrive par paramèt
 
 ![Preview](CaptureEcran.png)
 
-Capture des previews de MainActivity.kt (à ajouter à la racine du projet sous le nom screenshot.png).
+Capture des previews de MainActivity.kt
